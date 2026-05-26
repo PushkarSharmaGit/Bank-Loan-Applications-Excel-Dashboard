@@ -41,10 +41,10 @@ An interactive Excel dashboard built to monitor and analyze bank loan applicatio
 
 ### Visualizations
 - **Donut Charts** — Good Loan vs Bad Loan issued percentage
-- **Bar Charts** — Loan Applications, Funded Amount, DTI, Amount Received, and Interest Rate by loan status
+- **Clustered Bar Charts** — Loan Applications, Funded Amount, DTI, Amount Received, and Interest Rate by loan status
 - **Line Chart** — Total Loan Applications by Month (Jan–Dec trend)
-- **Map** — Total Loan Applications by U.S. State
-- **Bar Chart** — Total Loan Applications by Home Ownership (Mortgage, Rent, Own)
+- **Filled Map** — Total Loan Applications by U.S. State
+- **Treemap** — Total Loan Applications by Home Ownership (Mortgage, Rent, Own)
 - **Donut Chart** — Total Loan Applications by Term (36 months vs 60 months)
 - **Grade Slicer** — Filter by loan grades A, B, C, D, E, F
 - **Purpose Slicer** — Filter by loan purpose (Car, Credit Card, Debt Consolidation, etc.)
